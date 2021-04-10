@@ -193,7 +193,7 @@
 					<td> <input id="button" type="submit" value="로그인"> </td> 
 				</tr>
 				<tr>
-					<td> <a href="loginAction.jsp"><input id="button2" type="button" value="회원가입"></a>	
+					<td> <a href="signup.jsp"><input id="button2" type="button" value="회원가입"></a>	
 					<a href="#"><input id="button2" type="button" value="아이디 찾기"></a>
 					<a href="#"><input id="button2" type="button" value="비밀번호 찾기"></a> </td>
 				</tr>	
