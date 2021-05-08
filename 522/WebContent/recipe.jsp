@@ -46,61 +46,10 @@
 		.i2{ text-align: center; margin-top: 20px; font-size: 16px; color: #908076; }
 		.s1{ color: black; font-size: 11px; }
 		.s2{ color:gray; font-size: 10px; }
-		.modal_wrap{
-	        display: none;
-	        width: 500px;
-	        height: 500px;
-	        position: absolute;
-	        top:50%;
-	        left: 50%;
-	        margin: -250px 0 0 -250px;
-	        background:#eee;
-	        z-index: 2;
-	    }
-	    .black_bg{
-	        display: none;
-	        position: absolute;
-	        content: "";
-	        width: 100%;
-	        height: 100%;
-	        background-color:rgba(0, 0,0, 0.5);
-	        top:0;
-	        left: 0;
-	        z-index: 1;
-	    }
-	    .modal_close{
-	        width: 26px;
-	        height: 26px;
-	        position: absolute;
-	        top: -30px;
-	        right: 0;
-	    }
-	    .modal_close> a{
-	        display: block;
-	        width: 100%;
-	        height: 100%;
-	        background:url(https://img.icons8.com/metro/26/000000/close-window.png);
-	        text-indent: -9999px;
-	    }
+
 
 	</style>
-	<script>
-	    window.onload = function() {
-		 
-		    function onClick() {
-		        document.querySelector('.modal_wrap').style.display ='block';
-		        document.querySelector('.black_bg').style.display ='block';
-		    }   
-		    function offClick() {
-		        document.querySelector('.modal_wrap').style.display ='none';
-		        document.querySelector('.black_bg').style.display ='none';
-		    }
-		 
-		    document.getElementById('modal_btn').addEventListener('click', onClick);
-		    document.querySelector('.modal_close').addEventListener('click', offClick);
-	 
-		};
-	</script>
+
 
 
 <title>레시피</title>

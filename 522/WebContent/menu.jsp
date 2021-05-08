@@ -12,7 +12,7 @@
 		header {	
 			margin-top:20px;
 			background:linear-gradient(white 50px, rgba(255,255,255,0.8) 50px, rgba(255,255,255,0.8) );
-			height:50px;
+			height:45px;
 			overflow:hidden;
 			position:absolute;
 			left:0; right:0;
