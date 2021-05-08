@@ -21,9 +21,9 @@
 
 		<%@include file ="menu.jsp" %>
 		<main>
-		<%// 캐러셀 %>
+		
 			<div class="container" style="width:100%;margin-bottom:27px;">
-			
+				<%// 캐러셀 %>
 				<div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="5000" >
 				
 					<ol class="carousel-indicators">
@@ -56,15 +56,10 @@
 									<a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
 									<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
 									</a>		
-				</div>
-			</div>  <%// 캐러셀 끝 %>
-			
-			
-			<div class="container">
-				<div class="text-center" >
-					<h2>  </h2>
-				</div>
-			</div>
+				</div><%// 캐러셀 끝 %>
+				<img alt="" src="image/ad1.png" style="width:100%;">
+				<img alt="" src="image/ad2.png"  style="width:100%;">
+			</div>  
 
 		
 		</main>
