@@ -74,14 +74,7 @@
 							<li><a href="#">운영 공지</a></li>
 	    					<li><a href="#">이벤트 공지</a></li>
 						</ul>
-				</li>
-				<li><a href="#"><span> 개인 페이지 </span></a>
-						<ul>
-							<li><a href="#">주문 내역</a></li>
-	    					<li><a href="#">리뷰 내역</a></li>
-	    					<li><a href="#">포인트 내역</a></li>
-						</ul>
-				</li>				
+				</li>			
 
 			</ul>
 	</nav>

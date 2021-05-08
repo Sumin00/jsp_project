@@ -62,15 +62,10 @@
 			
 			<div class="container">
 				<div class="text-center" >
-					<h2> 노트북 </h2>
+					<h2>  </h2>
 				</div>
 			</div>
 
-			<div class="container">
-				<div class="row" align="center">
-				center
-				</div>
-			</div>
 		
 		</main>
 		
