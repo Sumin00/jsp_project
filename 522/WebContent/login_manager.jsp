@@ -13,7 +13,7 @@
 	<script src="js/bootstrap.js"></script>
 
 
-<title>로그인</title>
+<title>매니저 로그인</title>
 
 <style type="text/css">
 
@@ -124,8 +124,6 @@
 
 </head>
 <body>
-
-	<%// 메뉴 바 %>
 	
 	
 	<script type="text/javascript">
@@ -151,29 +149,14 @@
 
 	<div id="intro">
 	<span>	
-		<span id="title">로그인</span> <br><br>
+		<span id="title">EDIYA COFFEE</span> <br><br>
 		 	
-	Welcome, Ediya Coffee <br>
-	이디야커피에 오신 것을 환영합니다.
+	운영자 로그인<br>
 	</span>
 	
 	</div>
 
 	<br>
-	<br>
-	
-	<div id="login_bg">
-		<div id="contents">
-			<span id="c1">이디야 회원이셨나요?</span> <br>
-			<span id="c2">이디야 멤버스가 새로워졌습니다.</span> <br>
-			<hr>
-			회원님께 더 좋은 서비스를 제공해드리고자, <br>
-			스마트 오더, 홈카페 레시피 등의 서비스를 추가했습니다. <br> 
-			이디야 회원이 되어 푸짐한 혜택을 받으세요.
-		</div>
-	</div>
-
-	<br><br>
 
 	<div id="login_bg">
 		<div id="form">
@@ -203,17 +186,8 @@
 			</form>
 		</div>
 	</div>
-	
-	
+	<p style="color:white;">&copy;2018 EDIYA COFFEE COMPANY. ALL RIGHTS RESERVED.</p>
 
-
-
-
-
-
-
-
-	<%// 풋터 %>
 
 </body>
 </html>

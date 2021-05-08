@@ -56,7 +56,7 @@
     </div>
 	<nav class="top_menu">
 			<ul class="clearfix">
-				<li><a href="#"><span> 메뉴 </span></a>
+				<li><a href="products.jsp"><span> 메뉴 </span></a>
 						<ul>
 							<li><a href="#">음료</a></li>
 	    					<li><a href="#">베이커리</a></li>
@@ -67,7 +67,7 @@
 	    					<li><a href="#">원두</a></li>
 						</ul>
 				</li>
-				<li><a href="#"><span> 레시피 </span></a>
+				<li><a href="recipe.jsp"><span> 레시피 </span></a>
 				</li>
 				<li><a href="#"><span> 공지사항 </span></a>
 						<ul>
