@@ -61,7 +61,6 @@
 							<li><a href="#">음료</a></li>
 	    					<li><a href="#">베이커리</a></li>
 	    					<li><a href="#">이디야 스낵</a></li>
-	    					<li><a href="#">MD</a></li>
 	    					<li><a href="#">비니스트</a></li>
 	    					<li><a href="#">이디야 캡슐 커피</a></li>
 	    					<li><a href="#">원두</a></li>
@@ -69,7 +68,7 @@
 				</li>
 				<li><a href="recipe.jsp"><span> 레시피 </span></a>
 				</li>
-				<li><a href="#"><span> 공지사항 </span></a>
+				<li><a href="listboard.jsp"><span> 공지사항 </span></a>
 						<ul>
 							<li><a href="#">운영 공지</a></li>
 	    					<li><a href="#">이벤트 공지</a></li>
